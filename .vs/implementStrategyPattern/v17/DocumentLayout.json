@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\copalletdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\copalletdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\newcustomerdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\newcustomerdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\silverdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\silverdescount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\golddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\golddiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\discounttypes\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:discounttypes\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|d:\\courses\\design pattern\\elmahdi\\new folder\\implementstrategypattern\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B533EF83-61A3-4C94-95CE-B80A20502D4E}|implementStrategyPattern.csproj|solutionrelative:invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:13:12.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:31:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customerDataReader.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\customerDataReader.cs",
+              "RelativeDocumentMoniker": "customerDataReader.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\customerDataReader.cs",
+              "RelativeToolTip": "customerDataReader.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:31:14.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountContext.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\DiscountContext.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\DiscountContext.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\DiscountContext.cs",
+              "RelativeToolTip": "DiscountTypes\\DiscountContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:20:27.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SilverDescount.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\SilverDescount.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\SilverDescount.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\SilverDescount.cs",
+              "RelativeToolTip": "DiscountTypes\\SilverDescount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:58:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopalletDescount.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\CopalletDescount.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\CopalletDescount.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\CopalletDescount.cs",
+              "RelativeToolTip": "DiscountTypes\\CopalletDescount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:58:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewCustomerDescount.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\NewCustomerDescount.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\NewCustomerDescount.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\NewCustomerDescount.cs",
+              "RelativeToolTip": "DiscountTypes\\NewCustomerDescount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:58:45.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoldDiscount.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\GoldDiscount.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\GoldDiscount.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\GoldDiscount.cs",
+              "RelativeToolTip": "DiscountTypes\\GoldDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:57:28.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoice.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\Invoice.cs",
+              "RelativeToolTip": "Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:31:14.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customerType.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\customerType.cs",
+              "RelativeDocumentMoniker": "customerType.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\customerType.cs",
+              "RelativeToolTip": "customerType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:59:46.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\IDiscount.cs",
+              "RelativeDocumentMoniker": "DiscountTypes\\IDiscount.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\DiscountTypes\\IDiscount.cs",
+              "RelativeToolTip": "DiscountTypes\\IDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:57:05.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceLine.cs",
+              "DocumentMoniker": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\InvoiceLine.cs",
+              "RelativeDocumentMoniker": "InvoiceLine.cs",
+              "ToolTip": "D:\\courses\\Design pattern\\elmahdi\\New folder\\implementStrategyPattern\\InvoiceLine.cs",
+              "RelativeToolTip": "InvoiceLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:31:15.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

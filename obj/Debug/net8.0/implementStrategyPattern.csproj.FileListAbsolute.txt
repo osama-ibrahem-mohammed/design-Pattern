@@ -1,0 +1,14 @@
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\bin\Debug\net8.0\implementStrategyPattern.exe
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\bin\Debug\net8.0\implementStrategyPattern.deps.json
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\bin\Debug\net8.0\implementStrategyPattern.runtimeconfig.json
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\bin\Debug\net8.0\implementStrategyPattern.dll
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\bin\Debug\net8.0\implementStrategyPattern.pdb
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.AssemblyInfoInputs.cache
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.AssemblyInfo.cs
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.csproj.CoreCompileInputs.cache
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.dll
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\refint\implementStrategyPattern.dll
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.pdb
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\implementStrategyPattern.genruntimeconfig.cache
+D:\courses\Design pattern\elmahdi\New folder\implementStrategyPattern\obj\Debug\net8.0\ref\implementStrategyPattern.dll
